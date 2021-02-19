@@ -3,9 +3,21 @@ window.addEventListener('load', () => {
    // alert('dfjsdkfkjsldjfldsj');
 })
 
+
+function showImgage() {
+    console.log('add image...');
+    let img = document.createElement('img');
+    img.src = 'img/iu.jpeg'
+    img.width = 300;
+    img.height = 200;
+    img.alt = "img 1"
+
+    document.querySelector('#image1').appendChild(img);
+}
+
 function createList() {
     console.log('i am log')
-    const wizards = ['Hermione', 'Harry', 'Bibi', 'Dumbledore', 'Radagast'];
+    const wizards = ['Hermione', 'Harry', 'Bibi', 'Dumbledore', 'Radagast', 'ghjjh'];
     let list = document.createElement('ul');
 
     wizards.forEach(function (wizard) {
