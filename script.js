@@ -25,7 +25,7 @@ function createList() {
         li.textContent = wizard;
         list.appendChild(li);
     })
-    let app = document.querySelector('#app');
+    let app = document.querySelector('#wizards');
     app.appendChild(list)
     console.log('done')
 }
