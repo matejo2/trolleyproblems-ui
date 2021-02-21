@@ -7,3 +7,6 @@ dev notes:
 - for every image/ all images there has to be a call to get those
 - so this is just a design prototype how the site will look like
 
+- color palette https://www.color-hex.com/color-palette/105290
+- https://www.color-hex.com/color-palette/2326
+

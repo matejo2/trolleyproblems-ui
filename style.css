@@ -1,0 +1,20 @@
+
+body {
+    background-color: #1e1e1e;
+    color: #00ff00;
+    /* color: #007acc;     */
+}
+
+h1 {
+    color: hotpink;
+    margin-left: 20px;
+}
+
+#blubb {
+    /*color: #149414;*/
+    /* color: #ffefb5;
+
+     */
+    margin-left: 1rem;
+    font-family: Arial, serif;
+}
