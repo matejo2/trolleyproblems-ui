@@ -28,3 +28,49 @@ body {
     margin-left: 10rem;
     padding: 0rem 0.8rem;
 }
+
+div.gallery {
+    border: 1px solid lime;
+}
+
+div.gallery:hover {
+    border: 1px solid hotpink;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 0.9rem;
+    text-align: center;
+}
+
+/* what does '*' mean here? can it destroy he sidenav?*/
+* {
+    box-sizing: border-box;
+}
+
+.responsive {
+    padding: 0rem 0.4rem;
+    float: left;
+    width: 24.99999%;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
