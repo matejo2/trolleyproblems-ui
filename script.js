@@ -3,11 +3,10 @@ window.addEventListener('load', () => {
    // alert('dfjsdkfkjsldjfldsj');
 })
 
-
-function showImgage() {
+function showImage() {
     console.log('add image...');
     let img = document.createElement('img');
-    img.src = 'img/iu.jpeg'
+    img.src = '/img/iu.jpeg'
     img.width = 300;
     img.height = 200;
     img.alt = "img 1"
