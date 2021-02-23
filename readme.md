@@ -6,6 +6,8 @@ dev notes:
  i need node js (or something else) for storing file systems
 - for every image/ all images there has to be a call to get those
 - so this is just a design prototype how the site will look like
+- for access denied error in aws: https://stackoverflow.com/questions/57626977/aws-s3-access-denied-when-open-object-url-in-browser
+
 
 Some color palettes:
 - aesop Color Palette https://www.color-hex.com/color-palette/105290
@@ -13,4 +15,5 @@ Some color palettes:
 - apple dark mode https://www.color-hex.com/color-palette/99159
 - vs code dark theme https://www.color-hex.com/color-palette/98179
 - hacker scheme https://colorswall.com/palette/2190/
+
 
